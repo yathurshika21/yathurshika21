@@ -12,8 +12,6 @@
 </div>
 
 
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 - 🔭 I’m currently working on **Dashboards & E-Library**
 
 - 🌱 I’m currently learning **ML | Next.JS | Amazon S3**
